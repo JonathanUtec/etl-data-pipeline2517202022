@@ -1,0 +1,216 @@
+id_pago,id_venta,metodo,monto_pagado
+pg8000,v9057,transferencia,4452.68
+pg8001,v9027,transferencia,1742.47
+pg8002,v9025,tarjeta,789.21
+pg8003,v9112,transferencia,146.73
+pg8004,v9190,efectivo,3236.2
+pg8005,v9065,cheque,3191.77
+pg8006,v9152,cheque,1716.21
+pg8007,v9130,pago móvil,377.13
+pg8008,v9199,efectivo,2059.95
+pg8009,v9043,transferencia,1569.86
+pg8010,v9096,cheque,3392.06
+pg8011,v9041,efectivo,3036.78
+pg8012,v9226,cheque,1835.68
+pg8013,v9005,transferencia,1105.1
+pg8014,v9166,cheque,4940.42
+pg8015,v9179,pago móvil,2280.93
+pg8016,v9022,pago móvil,3447.61
+pg8017,v9088,cheque,719.95
+pg8018,v9122,efectivo,2438.24
+pg8019,v9177,efectivo,157.13
+pg8020,v9170,efectivo,2537.17
+pg8021,v9146,cheque,4820.81
+pg8022,v9196,efectivo,1933.35
+pg8023,v9050,transferencia,214.2
+pg8024,v9010,pago móvil,174.16
+pg8025,v9011,transferencia,1952.17
+pg8026,v9073,efectivo,816.92
+pg8027,v9007,transferencia,136.29
+pg8028,v9151,efectivo,3785.94
+pg8030,v9040,transferencia,1460.44
+pg8031,v9163,cheque,4502.41
+pg8032,v9228,cheque,598.37
+pg8033,v9084,tarjeta,4780.48
+pg8034,v9071,efectivo,1583.55
+pg8035,v9054,pago móvil,4444.25
+pg8036,v9136,efectivo,3022.66
+pg8037,v9046,pago móvil,4137.0
+pg8040,v9237,transferencia,4806.45
+pg8041,v9103,transferencia,1959.62
+pg8043,v9041,pago móvil,1715.13
+pg8044,v9059,pago móvil,2716.21
+pg8045,v9211,pago móvil,787.64
+pg8046,v9197,cheque,2777.48
+pg8047,v9011,pago móvil,2717.69
+pg8048,v9129,transferencia,3814.27
+pg8049,v9006,cheque,4171.58
+pg8050,v9079,efectivo,2213.4
+pg8051,v9130,pago móvil,1525.62
+pg8053,v9002,efectivo,989.23
+pg8054,v9026,pago móvil,307.08
+pg8056,v9106,cheque,1365.83
+pg8057,v9039,transferencia,4832.76
+pg8058,v9229,efectivo,2797.39
+pg8059,v9160,tarjeta,1749.44
+pg8060,v9219,efectivo,2910.73
+pg8061,v9128,pago móvil,713.2
+pg8062,v9007,cheque,2231.34
+pg8063,v9100,cheque,3138.65
+pg8064,v9159,efectivo,2454.71
+pg8065,v9123,transferencia,2020.86
+pg8066,v9175,tarjeta,4969.36
+pg8067,v9106,cheque,4403.97
+pg8068,v9100,pago móvil,3124.56
+pg8069,v9003,pago móvil,2855.5
+pg8070,v9221,transferencia,3110.89
+pg8071,v9197,cheque,1022.53
+pg8072,v9109,efectivo,1987.79
+pg8073,v9018,pago móvil,216.51
+pg8074,v9031,transferencia,2388.22
+pg8075,v9136,cheque,2724.26
+pg8076,v9011,cheque,1154.19
+pg8077,v9138,cheque,4820.86
+pg8078,v9045,cheque,4549.08
+pg8079,v9118,cheque,3616.27
+pg8080,v9015,pago móvil,2676.27
+pg8081,v9128,transferencia,4352.45
+pg8082,v9062,cheque,670.65
+pg8083,v9999,tarjeta,3956.74
+pg8084,v9118,tarjeta,641.61
+pg8085,v9020,transferencia,3975.17
+pg8086,v9157,efectivo,1393.32
+pg8087,v9012,efectivo,4387.91
+pg8088,v9161,efectivo,4721.33
+pg8089,v9003,tarjeta,761.0
+pg8090,v9155,efectivo,2324.12
+pg8091,v9101,pago móvil,4905.32
+pg8092,v9222,cheque,2427.37
+pg8093,v9058,tarjeta,4320.47
+pg8094,v9127,transferencia,2951.88
+pg8096,v9068,cheque,1443.2
+pg8097,v9024,tarjeta,1032.05
+pg8098,v9130,efectivo,3813.75
+pg8099,v9096,efectivo,1944.97
+pg8100,v9195,pago móvil,2566.15
+pg8101,v9024,pago móvil,2471.78
+pg8102,v9147,efectivo,2894.85
+pg8103,v9161,transferencia,4330.57
+pg8104,v9153,transferencia,4904.08
+pg8105,v9125,pago móvil,2049.77
+pg8107,v9226,efectivo,3827.35
+pg8108,v9188,pago móvil,2876.17
+pg8109,v9219,pago móvil,4781.11
+pg8110,v9220,efectivo,1018.36
+pg8111,v9008,efectivo,564.14
+pg8112,v9115,transferencia,4272.73
+pg8113,v9999,cheque,2206.97
+pg8114,v9177,cheque,4237.9
+pg8115,v9133,efectivo,4467.59
+pg8117,v9059,pago móvil,4419.65
+pg8118,v9171,pago móvil,2252.63
+pg8119,v9120,efectivo,2561.95
+pg8121,v9193,transferencia,4633.39
+pg8123,v9107,efectivo,2394.68
+pg8124,v9107,pago móvil,3444.86
+pg8125,v9200,efectivo,3619.08
+pg8126,v9212,efectivo,3468.81
+pg8127,v9215,efectivo,689.49
+pg8128,v9225,pago móvil,1510.99
+pg8129,v9213,transferencia,1806.4
+pg8130,v9130,transferencia,4026.1
+pg8131,v9075,efectivo,1408.22
+pg8132,v9219,pago móvil,1069.31
+pg8134,v9217,transferencia,64.14
+pg8135,v9239,transferencia,4989.15
+pg8136,v9020,pago móvil,3390.57
+pg8138,v9217,efectivo,1487.2
+pg8139,v9189,cheque,91.29
+pg8141,v9212,cheque,4174.04
+pg8142,v9162,pago móvil,3707.57
+pg8143,v9179,pago móvil,731.39
+pg8144,v9033,pago móvil,3772.07
+pg8145,v9040,cheque,3849.24
+pg8146,v9050,pago móvil,3299.53
+pg8147,v9174,efectivo,3835.26
+pg8148,v9081,pago móvil,4232.69
+pg8149,v9057,tarjeta,3075.75
+pg8150,v9074,cheque,461.25
+pg8151,v9184,tarjeta,2448.39
+pg8152,v9022,pago móvil,406.69
+pg8153,v9175,efectivo,2049.56
+pg8154,v9127,transferencia,2047.39
+pg8156,v9016,efectivo,1757.13
+pg8157,v9068,cheque,572.77
+pg8158,v9107,tarjeta,4045.01
+pg8159,v9138,tarjeta,4739.49
+pg8160,v9093,tarjeta,380.14
+pg8161,v9014,cheque,4776.47
+pg8162,v9090,efectivo,2622.43
+pg8163,v9162,cheque,1511.84
+pg8164,v9032,tarjeta,402.77
+pg8165,v9211,pago móvil,2513.11
+pg8166,v9124,transferencia,3976.69
+pg8167,v9015,cheque,3541.29
+pg8168,v9161,cheque,270.13
+pg8169,v9065,efectivo,383.05
+pg8171,v9167,cheque,1490.55
+pg8172,v9155,tarjeta,1177.27
+pg8173,v9046,transferencia,1419.4
+pg8174,v9999,efectivo,4021.34
+pg8175,v9197,tarjeta,4647.56
+pg8176,v9200,pago móvil,2037.41
+pg8177,v9147,efectivo,4532.43
+pg8178,v9123,tarjeta,1621.05
+pg8180,v9199,transferencia,1145.62
+pg8181,v9086,transferencia,3209.57
+pg8182,v9127,pago móvil,4895.33
+pg8184,v9066,tarjeta,1801.91
+pg8185,v9003,transferencia,3246.13
+pg8186,v9185,efectivo,632.14
+pg8187,v9152,efectivo,4445.52
+pg8188,v9046,cheque,2525.36
+pg8189,v9037,transferencia,2257.76
+pg8190,v9142,cheque,2937.61
+pg8192,v9020,pago móvil,377.44
+pg8194,v9056,pago móvil,1224.82
+pg8196,v9180,tarjeta,4116.22
+pg8197,v9045,efectivo,4023.71
+pg8198,v9141,efectivo,2771.45
+pg8199,v9227,cheque,2610.45
+pg8200,v9203,transferencia,731.52
+pg8201,v9144,transferencia,3881.22
+pg8202,v9038,efectivo,1371.62
+pg8203,v9136,pago móvil,2493.54
+pg8204,v9098,tarjeta,1435.68
+pg8206,v9206,pago móvil,3155.2
+pg8207,v9209,efectivo,290.57
+pg8208,v9114,efectivo,3748.25
+pg8209,v9224,efectivo,1601.58
+pg8210,v9133,cheque,20.67
+pg8212,v9150,transferencia,253.32
+pg8213,v9186,tarjeta,1395.32
+pg8214,v9090,cheque,3540.74
+pg8215,v9097,transferencia,332.19
+pg8216,v9119,pago móvil,4199.91
+pg8217,v9045,efectivo,39.02
+pg8219,v9141,tarjeta,3709.7
+pg8220,v9099,cheque,1595.03
+pg8221,v9071,cheque,527.42
+pg8222,v9189,tarjeta,1813.96
+pg8223,v9034,transferencia,1366.56
+pg8224,v9146,transferencia,4216.71
+pg8225,v9029,cheque,1580.47
+pg8226,v9077,cheque,3948.88
+pg8227,v9083,efectivo,4461.52
+pg8228,v9112,transferencia,2180.41
+pg8229,v9024,tarjeta,4551.52
+pg8230,v9167,transferencia,1899.04
+pg8231,v9087,efectivo,4821.11
+pg8232,v9013,cheque,464.66
+pg8234,v9101,efectivo,2479.19
+pg8235,v9214,tarjeta,1950.49
+pg8236,v9149,cheque,3170.91
+pg8237,v9175,pago móvil,3525.21
+pg8238,v9082,cheque,41.73
+pg8239,v9109,pago móvil,851.43
