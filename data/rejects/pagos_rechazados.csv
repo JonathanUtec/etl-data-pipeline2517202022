@@ -1,0 +1,26 @@
+id_pago,id_venta,metodo,monto_pagado,motivo_rechazo
+pg8029,,cheque,2303.44,idVenta_vacio
+pg8038,,efectivo,4920.39,idVenta_vacio
+pg8039,v9175,cheque,,montoPagado_vacio
+pg8042,,tarjeta,1939.85,idVenta_vacio
+pg8052,,pago móvil,1311.49,idVenta_vacio
+pg8055,v9113,efectivo,,montoPagado_vacio
+pg8095,v9026,transferencia,,montoPagado_vacio
+pg8106,v9132,cheque,,montoPagado_vacio
+pg8116,v9210,tarjeta,,montoPagado_vacio
+pg8120,v9138,tarjeta,,montoPagado_vacio
+pg8122,v9174,efectivo,,montoPagado_vacio
+pg8133,,transferencia,4788.09,idVenta_vacio
+pg8137,v9155,pago móvil,,montoPagado_vacio
+pg8140,v9160,transferencia,,montoPagado_vacio
+pg8155,v9149,pago móvil,,montoPagado_vacio
+pg8170,v9226,efectivo,,montoPagado_vacio
+pg8179,v9000,tarjeta,,montoPagado_vacio
+pg8183,,tarjeta,3025.4,idVenta_vacio
+pg8191,v9190,transferencia,,montoPagado_vacio
+pg8193,v9226,tarjeta,,montoPagado_vacio
+pg8195,v9116,transferencia,,montoPagado_vacio
+pg8205,v9076,pago móvil,,montoPagado_vacio
+pg8211,v9218,pago móvil,,montoPagado_vacio
+pg8218,,pago móvil,1249.18,idVenta_vacio
+pg8233,v9153,cheque,,montoPagado_vacio
